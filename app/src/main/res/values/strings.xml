@@ -1,0 +1,13 @@
+<resources>
+    <string name="name_app">Github User App</string>
+    <string name="hint_for_search">Find by Username</string>
+    <string name="subname_app">Go Find User!</string>
+    <string name="user_item_list">User Github:</string>
+    <string name="username">UsernameGithub</string>
+    <string name="url_user">Github.com/username</string>
+    <string name="user_name">Name</string>
+    <string name="followers">0 Followers</string>
+    <string name="following">0 Following</string>
+    <string name="tabLayout1">FOLLOWERS</string>
+    <string name="tabLayout2">FOLLOWING</string>
+</resources>
